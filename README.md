@@ -8,60 +8,137 @@ Senior Software Engineer | C# • .NET • WPF • MVVM
 Building reliable enterprise desktop applications with modern .NET technologies.
 </p>
 
+<p align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&height=60&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Senior+Software+Engineer;C%23+%E2%80%A2+.NET+%E2%80%A2+WPF+%E2%80%A2+MVVM;Building+Enterprise+Desktop+Applications;Always+Learning+%E2%80%A2+Always+Building)](https://git.io/typing-svg)
+
+</p>
+
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 💼 Senior Software Engineer with **4+ years** of experience
 - 🖥️ Specialized in **C#, .NET, WPF & MVVM**
-- ⚡ Passionate about building clean, maintainable and high-performance desktop applications
-- 🚀 Experienced in enterprise software, REST API integration, performance optimization and CI/CD
-- 🌱 Currently learning **ASP.NET Core, gRPC and Modern .NET**
+- 🚀 Experienced in building **enterprise desktop applications**
+- ⚡ Passionate about **clean code, performance optimization, and maintainable software**
+- 🌱 Currently learning **ASP.NET Core, gRPC, and Modern .NET**
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-**Languages**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,aws,mysql,postman" />
+</p>
 
-`C#`
+### Languages
 
-**Frameworks**
+- C#
 
-`.NET` • `.NET Core` • `ASP.NET Core`
+### Frameworks
 
-**Desktop**
+- .NET
+- .NET Core
+- ASP.NET Core *(Learning)*
 
-`WPF` • `MVVM` • `WinForms`
+### Desktop Technologies
 
-**Web**
+- WPF
+- MVVM
+- WinForms
 
-`REST APIs`
+### Web Technologies
 
-**Database**
+- REST APIs
 
-`MySQL`
+### Database
 
-**Tools**
+- MySQL
 
-`Git` • `GitLab CI/CD` • `Jira` • `Postman`
+### Tools
+
+- Git
+- GitHub
+- GitLab CI/CD
+- Jira
+- Visual Studio
+- VS Code
+- Postman
 
 ---
 
-## 🎯 Current Focus
+# 📊 GitHub Statistics
 
-- Enterprise Desktop Applications
-- Performance Optimization
-- Modern .NET Development
-- ASP.NET Core
-- gRPC
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=erlakshitsingh&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erlakshitsingh&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
 
 ---
 
-## 🤝 Connect With Me
+# 🔥 GitHub Streak
 
-💼 LinkedIn:
-https://linkedin.com/in/er-lakshit-singh
+<p align="center">
 
-📧 Email:
-er.lakshit.singh@gmail.com
+<img src="https://streak-stats.demolab.com?user=erlakshitsingh&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Lakshit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=erlakshitsingh&theme=github-dark)](https://github.com/erlakshitsingh)
+
+---
+
+# 🎯 Current Focus
+
+- 🚀 Enterprise Desktop Applications
+- ⚡ Performance Optimization
+- 🌐 ASP.NET Core
+- 🔗 gRPC
+- 🏗️ Modern .NET Development
+- 📚 Continuous Learning
+
+---
+
+# 📌 Featured Projects
+
+> 🚧 Coming Soon
+
+- Enterprise WPF Starter Kit
+- ASP.NET Core REST API
+- gRPC Sample
+- Hex Editor
+- Algorithms in C#
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/er-lakshit-singh">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:er.lakshit.singh@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ **Thanks for visiting my profile!**
+
+*"Building reliable, maintainable software that solves real-world problems."*
+
+</p>
