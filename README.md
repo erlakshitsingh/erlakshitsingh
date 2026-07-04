@@ -1,18 +1,14 @@
-<h1 align="center">Hi 👋, I'm Lakshit Singh</h1>
+<div align="center">
 
-<h3 align="center">
-Senior Software Engineer | C# • .NET • WPF • MVVM
-</h3>
+# Hi 👋, I'm Lakshit Singh
 
-<p align="center">
+### Senior Software Engineer | C# • .NET • WPF • MVVM
+
 Building reliable enterprise desktop applications with modern .NET technologies.
-</p>
 
-<p align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=1000&height=70&lines=Hi+%F0%9F%91%8B+I'm+Lakshit+Singh;Senior+Software+Engineer;C%23+%7C+.NET+%7C+WPF+%7C+MVVM;Enterprise+Desktop+Applications;Always+Learning+%E2%80%A2+Always+Building)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&height=60&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Senior+Software+Engineer;C%23+%E2%80%A2+.NET+%E2%80%A2+WPF+%E2%80%A2+MVVM;Building+Enterprise+Desktop+Applications;Always+Learning+%E2%80%A2+Always+Building)](https://git.io/typing-svg)
-
-</p>
+</div>
 
 ---
 
@@ -22,41 +18,44 @@ Building reliable enterprise desktop applications with modern .NET technologies.
 - 🖥️ Specialized in **C#, .NET, WPF & MVVM**
 - 🚀 Experienced in building **enterprise desktop applications**
 - ⚡ Passionate about **clean code, performance optimization, and maintainable software**
-- 🌱 Currently learning **ASP.NET Core, gRPC, and Modern .NET**
+- 🔧 Experienced with **REST APIs, Git, GitLab CI/CD, and Jira**
+- 🌱 Currently learning **ASP.NET Core, gRPC & Modern .NET**
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
-<p align="left">
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,aws,mysql,postman" />
-</p>
 
-### Languages
+</div>
+
+### 💻 Languages
 
 - C#
 
-### Frameworks
+### ⚙️ Frameworks
 
 - .NET
 - .NET Core
 - ASP.NET Core *(Learning)*
 
-### Desktop Technologies
+### 🖥️ Desktop
 
 - WPF
 - MVVM
 - WinForms
 
-### Web Technologies
+### 🌐 Web
 
 - REST APIs
 
-### Database
+### 🗄️ Database
 
 - MySQL
 
-### Tools
+### 🔨 Tools
 
 - Git
 - GitHub
@@ -70,23 +69,23 @@ Building reliable enterprise desktop applications with modern .NET technologies.
 
 # 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=erlakshitsingh&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=erlakshitsingh&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erlakshitsingh&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erlakshitsingh&layout=compact&theme=github_dark&hide_border=true" />
 
-</p>
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=erlakshitsingh&theme=github-dark-blue&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
@@ -96,7 +95,7 @@ Building reliable enterprise desktop applications with modern .NET technologies.
 
 ---
 
-# 🎯 Current Focus
+# 🚀 What I'm Working On
 
 - 🚀 Enterprise Desktop Applications
 - ⚡ Performance Optimization
@@ -111,34 +110,32 @@ Building reliable enterprise desktop applications with modern .NET technologies.
 
 > 🚧 Coming Soon
 
-- Enterprise WPF Starter Kit
-- ASP.NET Core REST API
-- gRPC Sample
-- Hex Editor
-- Algorithms in C#
+- ⭐ Enterprise WPF Starter Kit
+- ⭐ ASP.NET Core REST API
+- ⭐ gRPC Sample Project
+- ⭐ Hex Editor
+- ⭐ Algorithms in C#
 
 ---
 
 # 🤝 Connect With Me
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/er-lakshit-singh">
+<a href="https://www.linkedin.com/in/er-lakshit-singh" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="mailto:er.lakshit.singh@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
 
-⭐ **Thanks for visiting my profile!**
+### ⭐ Thanks for visiting my GitHub!
 
-*"Building reliable, maintainable software that solves real-world problems."*
+*"Building software that is reliable, maintainable, and designed for real-world impact."*
 
-</p>
+</div>
