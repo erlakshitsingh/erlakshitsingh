@@ -54,8 +54,7 @@ Building reliable enterprise desktop applications with modern .NET technologies.
 - Performance Optimization
 - Modern .NET Development
 - ASP.NET Core
-- GIT
-- JIRA
+- gRPC
 
 ---
 
